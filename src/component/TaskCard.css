@@ -1,0 +1,11 @@
+.taskCard {
+  width: 60vw;
+  height: 60px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 0 5px gainsboro;
+  border-radius: 5px;
+  margin: 10px;
+}
