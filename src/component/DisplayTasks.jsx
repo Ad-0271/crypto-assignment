@@ -1,5 +1,5 @@
 import Typography from "@mui/material/Typography";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 
 import { TaskCard } from "./TaskCard.jsx";
 
